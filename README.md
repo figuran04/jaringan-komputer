@@ -20,10 +20,6 @@
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/konfigurasi-firewall-pada-mikrotik-6a8a0f81f676?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Konfigurasi Firewall pada Mikrotik</a></h3><p>Konfigurasi Firewall pada Mikrotik: Perlindungan dan Pengaturan Akses Jaringanwith SalieriDi dunia y...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/647/1*vMtQQihQlSoro71nE2g81Q.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/routing-statis-static-routing-5f93eeb55cc2?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Routing Statis (Static Routing)</a></h3><p>with SalieriRouting statis adalah metode di mana administrator jaringan menetapkan jalur tetap untuk...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/821/1*5l7LrmwT-5ods6nzLCHN2Q.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
 </table>
 </div>
 
